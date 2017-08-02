@@ -1,0 +1,31 @@
+{
+  "name": "pkgi",
+  "version": "1.0.0",
+  "description": "Interactive pkg",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roccomuso/pkgi"
+  },
+  "keywords": [
+    "pkg",
+    "pkgi",
+    "interactive",
+    "cli",
+    "inquirer",
+    "build"
+  ],
+  "author": "Rocco Musolino (@roccomuso)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roccomuso/pkgi/issues"
+  },
+  "dependencies": {
+    "inquirer": "^3.2.0",
+    "lodash.findindex": "^4.6.0",
+    "semver": "^5.3.0"
+  }
+}

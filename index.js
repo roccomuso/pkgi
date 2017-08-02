@@ -32,4 +32,3 @@ function formatArgs (answers) {
 function raiseError (err) {
   if (err) throw err
 }
-
